@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🎓 Estudando sistemas no colegio ccm
-- 💼 Trabalhando como barberio, na morfes barberia
+- 💼 Trabalhando como barberio, na morfes barbearia
 - 🌱 Aprendendo mais sobre sistemas
   
 ## Minhas Skills
