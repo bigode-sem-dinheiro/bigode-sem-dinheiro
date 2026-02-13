@@ -52,4 +52,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-enzo.avelino.machado#escola.pr.gov.br006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:enzo.avelino.machado#escola.pr.gov.br)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)e
+[![GitHub](https://img.shields.io/github/followers/bigode-sem-dinheiro?label=follow&style=social)](https://github.com/bigode-sem-dinheiro)
