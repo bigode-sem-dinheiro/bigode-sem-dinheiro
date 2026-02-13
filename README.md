@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=bigode-sem-dinheiro-color=006bed)
+![](https://komarev.com/ghpvc/?username=bigode-sem-dinheiro&color=006bed)
 
 ## Sobre mim
 
